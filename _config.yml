@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.9
 
 url:              'https://shawntao1011.github.io'
-baseurl:          '/python-q'
+baseurl:          '/python_q'
 rss:              RSS
 
 toc:
